@@ -173,7 +173,7 @@ No descarto añadir nuevas lecciones a futuro, pero creo que por el momento pued
 > Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PYTHON"** con un 10% de descuento en tu primera suscripción.
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack iOS & Android engineer (Aqui edito)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
